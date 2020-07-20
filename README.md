@@ -1,3 +1,9 @@
+## Change Api information to run the application
+
+- Sign up in https://www.edamam.com/
+- Get the address Api
+- Change the Url, APP_ID, App_key in file App.je
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
