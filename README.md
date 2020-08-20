@@ -3,7 +3,7 @@
 ### [Live Site](https://nervous-lamport-1f84d9.netlify.app///)
 
 
-![CrudApplication](assets/recipe.jpg)
+![CrudApplication](assets/recipe.png)
 
 ## Change Api information to run the application
 
