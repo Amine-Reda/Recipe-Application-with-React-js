@@ -1,6 +1,6 @@
 # Recipe Application with React js
 
-### [Live Site](https://nervous-lamport-1f84d9.netlify.app///)
+### ----> [Live Site](https://nervous-lamport-1f84d9.netlify.app///)
 
 
 ![CrudApplication](assets/recipe.png)
